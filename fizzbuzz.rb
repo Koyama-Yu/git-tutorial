@@ -1,3 +1,4 @@
+#FizzBuzz program
 (1..100).each{|i|
 if i % 15 == 0
 print "FizzBuzz\n"
